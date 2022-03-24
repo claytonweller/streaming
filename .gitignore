@@ -12,6 +12,7 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
+*.mp4
 web-build/
 .vscode
 **/coverage
