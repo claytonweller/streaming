@@ -1,0 +1,9 @@
+{
+  "name": "streaming",
+  "version": "1.0.0",
+  "description": "Learning how to make a video streaming service",
+  "main": "index.js",
+  "repository": "https://github.com/claytonweller/streaming.git",
+  "author": "ClaytonWeller <clayton.weller@gmail.com>",
+  "license": "MIT"
+}
